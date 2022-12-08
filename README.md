@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soup1997)](https://github.com/anuraghazra/github-readme-stats)  
 
-[![CV](http://img.shields.io/badge/-CV-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://github.com/soup1997/Hyunseup-Jo-CV/blob/origin/%EC%A1%B0%ED%98%84%EC%8A%B5_CV.pdf)   
+[![CV](http://img.shields.io/badge/-CV-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://github.com/soup1997/Hyunseup-Jo-CV/blob/origin/HyunseupJo_CV.pdf)   
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=soup1997)](https://velog.io/@soup1997) 
 
 
