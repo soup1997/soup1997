@@ -6,9 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=round-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/%ED%98%84%EC%8A%B5-%EC%A1%B0-529821255/overlay/contact-info/)](https://www.linkedin.com/in/%ED%98%84%EC%8A%B5-%EC%A1%B0-529821255/overlay/contact-info/)
 </div>
 
-<div align=center>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=soup1997)](https://velog.io/@soup1997)
-</div>
 <!--
 **soup1997/soup1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
