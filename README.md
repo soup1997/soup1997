@@ -1,6 +1,6 @@
 ## Education 📘
-✔ Master's Course at Auotmotive Engineering, Hanyang University   
-✔ B.S in Electornic Engineering, Tech Univerisity of Korea   
+# ✔ Master's Course at Auotmotive Engineering, Hanyang University   
+# ✔ B.S in Electornic Engineering, Tech Univerisity of Korea   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soup1997)](https://github.com/anuraghazra/github-readme-stats)  
 
 <div align=center>
