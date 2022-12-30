@@ -11,8 +11,15 @@
 
 
 </div>
-
+<div align=center>
+  
+  
+  
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=soup1997)](https://velog.io/@soup1997)
+
+  
+
+</div>
 <!--
 **soup1997/soup1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
