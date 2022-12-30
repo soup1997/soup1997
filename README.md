@@ -3,7 +3,7 @@
 #### ✔ B.S in Electronic Engineering, Tech Univerisity of Korea   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soup1997)](https://github.com/anuraghazra/github-readme-stats)  
 
-<div align=center>
+<div align=left>
   
   
   
