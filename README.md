@@ -6,20 +6,20 @@
 <div align=center>
   
   
+  
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=soup1997)](https://velog.io/@soup1997)
+
+  
+
+</div>
+<div align=left>
+  
+  
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyunseup0815@gmail.com)](mailto:hyunseup0815@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=round-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/%ED%98%84%EC%8A%B5-%EC%A1%B0-529821255/overlay/contact-info/)](https://www.linkedin.com/in/%ED%98%84%EC%8A%B5-%EC%A1%B0-529821255/overlay/contact-info/)
 
 
-
-</div>
-<div align=center>
-  
-  
-  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=soup1997)](https://velog.io/@soup1997)
-
-  
 
 </div>
 <!--
