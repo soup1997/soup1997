@@ -16,7 +16,7 @@
 </p>
 
 
-### About Me & Where to Reach Me 📌   
+### Where to Reach Me 📌   
 
  <div align=center>
   <br>
