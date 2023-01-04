@@ -6,11 +6,13 @@
 ## Interests 🔭
 #### ✔ Sensor Fusion  
 #### ✔ Sensor and Signal Processing Technology
-#### ✔ Automotive Embedded Systems 
+#### ✔ Automotive Embedded Systems
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soup1997&layout=compact&theme=dark&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align=center>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soup1997&layout=compact&theme=dark&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=soup1997)](https://velog.io/@soup1997)   
   
 
