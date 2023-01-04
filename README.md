@@ -10,8 +10,8 @@
 #### ✔ Automotive Embedded Systems
 
 ### Github Stats 🏆
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=soup1997&theme=dark&show_icons=true" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=soup1997&theme=dark&show_icons=true&locale=en&layout=compact" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=soup1997&theme=dark&show_icons=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=soup1997&theme=dark&show_icons=true&locale=en&layout=compact"/>
 
 
 ### Where to Reach Me 📌
