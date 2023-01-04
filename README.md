@@ -2,8 +2,6 @@
 #### ✔ Master's Course at Department of Automotive Engineering, Hanyang University   
 #### ✔ B.S in Electronics Engineering, minor in Automotive Engineering, Tech Univerisity of Korea         
 
-<br>
-</br>
 
 ## Interests 🔭
 #### ✔ Sensor Fusion  
@@ -13,7 +11,7 @@
 <div align=center>
   
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)   
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=soup1997)](https://velog.io/@soup1997)   
   
 
