@@ -1,7 +1,7 @@
 ## Hi there, I'm Hyunseup Jo 🚗
 
 ### Education 📘
-- Master's Course at Department of Automotive Engineering, Hanyang University   
+- Master's Course at Automotive Engineering, Hanyang University   
 - B.S in Electronics Engineering, minor in Automotive Engineering, Tech Univerisity of Korea         
 
 ### Interests 🔭
