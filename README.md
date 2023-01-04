@@ -1,3 +1,4 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soup1997&theme=dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soup1997&layout=compact&theme=dark&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Education 📘
