@@ -1,4 +1,4 @@
-## Hi there, I'm Hyunseup Jo 🚗
+## Hi there, I'm Hyunseup Jo 🚗  
 
 ### Education 📘
 - Master's Course at Automotive Engineering, Hanyang University 24 **(2023.3 ~ 2025.2)**
