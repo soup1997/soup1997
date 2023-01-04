@@ -10,8 +10,7 @@
 
 <div align=center>
   
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soup1997&show_icons=true&theme=dark)   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soup1997&layout=compact&theme=dark&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=soup1997)](https://velog.io/@soup1997)   
   
 
