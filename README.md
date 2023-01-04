@@ -15,11 +15,11 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=soup1997&theme=dark&show_icons=true&locale=en&layout=compact"/>
 </p>
 
-### About Me 📌
+### Where to Reach Me 📌
 <div align="center">
-  <br>
+  <br>   
   
-  <a href="https://velog.io/@soup1997"> <img height="30em" src="https://velog-readme-stats.vercel.app/api/badge?name=soup1997"></a>   
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=soup1997)](https://velog.io/@soup1997)   
   [![CV](https://img.shields.io/badge/-CV-orange?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://github.com/soup1997/Hyunseup-Jo-CV/blob/origin/HyunseupJo_CV.pdf)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyunseup0815@gmail.com)](mailto:hyunseup0815@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=round-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/%ED%98%84%EC%8A%B5-%EC%A1%B0-529821255/)](https://www.linkedin.com/in/%ED%98%84%EC%8A%B5-%EC%A1%B0-529821255/)
