@@ -2,7 +2,15 @@
 #### ✔ Master's Course at Department of Automotive Engineering, Hanyang University   
 #### ✔ B.S in Electronics Engineering, minor in Automotive Engineering, Tech Univerisity of Korea      
 
+<div align=center>
+  
+  
+  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soup1997)](https://github.com/anuraghazra/github-readme-stats)  
+
+
+ 
+</div>
 
 <div align=center>
   
