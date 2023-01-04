@@ -4,15 +4,8 @@
 
 <div align=center>
   
-  
-  
+## Github Stats 🏆    
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soup1997)](https://github.com/anuraghazra/github-readme-stats)  
-
-
- 
-</div>
-
-<div align=center>
   
   
 
