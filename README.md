@@ -28,10 +28,7 @@
   
 </div>
 
-<!-- **soup1997/soup1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-=======
 ### Where to Reach Me 📌
 <div align="center">
 
