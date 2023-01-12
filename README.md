@@ -2,7 +2,7 @@
 
 ### Education 📘
 - Master's Course in Automotive Engineering, Hanyang University **(2023.3 ~ 2025.2)**
-- B.S in Electronics Engineering, Minor in Automotive Engineering, Tech Univerisity of Korea **(2017.3 ~ 2023.2)**
+- B.S in Electronics Engineering, Minor in Automotive Engineering, Tech University of Korea **(2017.3 ~ 2023.2)**
 
 ### Research Interest 🔭
 - Sensor Fusion  
