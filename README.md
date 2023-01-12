@@ -9,6 +9,12 @@
 - Sensor and Signal Processing Technology
 - Automotive Embedded Systems
 - HILS
+- 
+### Github Stats 🏆
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=soup1997&theme=dark&show_icons=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=soup1997&theme=dark&show_icons=true&locale=en&layout=compact&exclude_repo="/>
+</p>
 
 ### Where to Reach Me 📌   
 
