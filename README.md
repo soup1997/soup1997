@@ -7,8 +7,8 @@
 ### Research Interest 🔭
 - Sensor Fusion  
 - Sensor and Signal Processing Technology
-- Automotive Embedded Systems
 - SIL(Software-in-the-Loop) Simulation
+- Automotive Embedded Systems
 
 ### Where to Reach Me 📌   
 
