@@ -8,7 +8,7 @@
 - Sensor Fusion  
 - Sensor and Signal Processing Technology
 - Automotive Embedded Systems
-- ILS
+- SIL(Software-in-the-Loop) Simulation
 
 ### Where to Reach Me 📌   
 
