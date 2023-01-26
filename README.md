@@ -8,7 +8,7 @@
 - Sensor Fusion  
 - Sensor and Signal Processing Technology
 - Automotive Embedded Systems
-- HILS
+- ILS
 
 ### Where to Reach Me 📌   
 
