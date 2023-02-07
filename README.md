@@ -1,7 +1,7 @@
 ## Hi there, I'm Hyunseup Jo 🚗🚕🚙  
 
 ### Education 📘
-- Master Course at [SMEET LAB](smeet.hanyang.ac.kr), Automotive Engineering, Hanyang University **(2023.3 ~ Present)**
+- Master Course at [SMEET LAB](www.smeet.hanyang.ac.kr), Automotive Engineering, Hanyang University **(2023.3 ~ Present)**
 - B.S in Electronics Engineering, Minor in Automotive Engineering, Tech University of Korea **(2017.3 ~ 2023.2)**
 
 ### Research Interest 🔭
