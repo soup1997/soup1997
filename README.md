@@ -1,7 +1,7 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=slice&color=b51c1c&height=120&text=Hi%20there,%20I'm%20Hyunseup%20Jo%20🚗🚕🚙%20%20&animation=fadeIn&fontColor=000000&fontSize=40" />
+    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=b51c1c&height=120&text=Hi%20there,%20I'm%20Hyunseup%20Jo%20🚗🚕🚙%20%20&animation=&fontColor=000000&fontSize=40" />
 </div>
-    
+        
     
 
 ### Education 📘
