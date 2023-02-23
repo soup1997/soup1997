@@ -1,4 +1,8 @@
-## Hi there, I'm Hyunseup Jo 🚗🚕🚙  
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=slice&color=b51c1c&height=120&text=Hi%20there,%20I'm%20Hyunseup%20Jo%20🚗🚕🚙%20%20&animation=fadeIn&fontColor=000000&fontSize=40" />
+</div>
+    
+    
 
 ### Education 📘
 - Master Course at [SMEET LAB](http://smeet.hanyang.ac.kr/), Automotive Engineering, Hanyang University **(2023.3 ~ Present)**
