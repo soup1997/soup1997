@@ -12,7 +12,7 @@
 - LiDAR SLAM
 - Sensor Fusion  
 - Sensor and Signal Processing Technology
-- SIL(Software-in-the-Loop) / HIL(Hardware-in-the-loop) Simulation
+- SIL(Software-in-the-Loop) Simulation
 - Automotive Embedded Systems
 
 ### Where to Reach Me 📌   
