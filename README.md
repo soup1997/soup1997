@@ -9,7 +9,7 @@
 - B.S in Electronics Engineering, Minor in Automotive Engineering, Tech University of Korea **(2017.3 ~ 2023.2)**
 
 ### Research Interest 🔭
-- LiDAR Odometry/SLAM
+- LiDAR Inertial Odometry/SLAM
 - Sensor Fusion  
 - Sensor and Signal Processing Technology
 - SIL(Software-in-the-Loop) Simulation
