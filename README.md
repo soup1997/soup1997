@@ -6,7 +6,7 @@
 
 ### Education 📘
 - Master Course at SMEET LAB, Automotive Engineering, Hanyang University **(2023.3 ~ Present)**
-- B.S in Electronics Engineering, Minor in Automotive Engineering, Tech University of Korea **(2017.3 ~ 2023.2)**
+- Undergraduate researcher at AES LAB, B.S in Electronics Engineering, Minor in Automotive Engineering, Tech University of Korea **(2017.3 ~ 2023.2)**
 
 ### Research Interest 🔭
 - Navigation and Control System for Autonomous Vehicles
