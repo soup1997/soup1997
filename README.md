@@ -10,8 +10,8 @@
 
 ### Research Interest 🔭
 - Navigation and Control System for Autonomous Vehicles
-- LiDAR Inertial Odometry/SLAM
-- Sensor Fusion
+- LiDAR Inertial Odometry
+- Sensor Fusion (IMU, GNSS, LiDAR)
 - SIL(Software-in-the-Loop) Simulation
 
 ### Where to Reach Me 📌   
