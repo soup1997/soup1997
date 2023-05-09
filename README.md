@@ -12,6 +12,7 @@
 - LiDAR Inertial Odometry
 - Sensor Fusion (IMU, GNSS, LiDAR)
 - SIL(Software-in-the-Loop) Simulation
+- Automotive Embedded Systems
 
 ### Where to Reach Me 📌   
 
