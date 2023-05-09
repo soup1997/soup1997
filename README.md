@@ -9,7 +9,6 @@
 - B.S in Electronics Engineering, Minor in Automotive Engineering, Tech University of Korea **(2017.3 ~ 2023.2)**
 
 ### Research Interest 🔭
-- Navigation and Control System for Autonomous Vehicles
 - LiDAR Inertial Odometry
 - Sensor Fusion (IMU, GNSS, LiDAR)
 - SIL(Software-in-the-Loop) Simulation
