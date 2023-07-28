@@ -11,7 +11,6 @@
 ### Research Interest 🔭
 - LiDAR / Visual Inertial Odometry
 - Sensor Fusion (IMU, GNSS, LiDAR)
-- SIL(Software-in-the-Loop) Simulation
 - Automotive Embedded System
 
 ### Where to Reach Me 📌   
