@@ -10,7 +10,7 @@
 
 ### Research Interest 🔭
 - LiDAR / Visual Inertial Odometry
-- Sensor Fusion (IMU, GNSS, LiDAR)
+- Sensor Fusion for States Estimation
 - Automotive Embedded System
 
 ### Where to Reach Me 📌   
