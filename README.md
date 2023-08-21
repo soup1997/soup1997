@@ -9,9 +9,9 @@
 - B.S in Electronics Engineering, Minor in Automotive Engineering, Tech University of Korea **(2017.3 ~ 2023.2)**
 
 ### Research Interest 🔭
-- LiDAR / Visual Inertial Odometry
-- Sensor Fusion for States Estimation
-- Automotive Embedded System
+- LiDAR / Visual inertial odometry
+- Sensor Fusion for state estimation
+- Automotive embedded systems
 
 ### Where to Reach Me 📌   
 
