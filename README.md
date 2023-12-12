@@ -5,7 +5,7 @@
     
 
 ### Education 📘
-- Master Course at Automotive Engineering, Hanyang University **(2023.3 ~ Present)**
+- Master's course at Automotive Engineering, Hanyang University **(2023.3 ~ Present)**
 - B.S in Electronics Engineering, Minor in Automotive Engineering, Tech University of Korea **(2017.3 ~ 2023.2)**
 
 ### Research Interest 🔭
