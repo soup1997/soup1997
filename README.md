@@ -10,7 +10,6 @@
 
 ### Research Interest 🔭
 - Visual inertial odometry
-- Sensor Fusion(Camera, Radar, IMU, GNSS)
 - Automotive embedded systems
 
 ### Where to Reach Me 📌   
