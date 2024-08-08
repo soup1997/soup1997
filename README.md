@@ -3,8 +3,8 @@
 </div>
 
 ### Education 📘
-- Master's course at Automotive Engineering, Hanyang University **(2023.3 ~ Present)**
-- B.S in Electronics Engineering, Minor in Automotive Engineering, Tech University of Korea **(2017.3 ~ 2023.2)**
+- Master's course at Automotive Engineering, Hanyang University **(2023.03 ~ 2025.02)**
+- B.S in Electronics Engineering, Minor in Automotive Engineering, Tech University of Korea **(2017.03 ~ 2023.02)**
 
 ### Research Interest 🔭
 - Visual inertial odometry
