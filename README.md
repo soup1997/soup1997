@@ -8,8 +8,8 @@
 
 ### Research Interest 🔭
 - Visual inertial odometry
-- Sensor fusion approaches
-- Automotive embedded systems
+- Sensor fusion approaches for navigation systems
+- Embedded systems
 
 ### Where to Reach Me 📌   
 
