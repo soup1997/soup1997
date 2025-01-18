@@ -7,9 +7,9 @@
 - B.S in Electronics Engineering, Minor in Automotive Engineering, Tech University of Korea **(2017.03 ~ 2023.02)**
 
 ### Research Interest 🔭
-- Visual inertial odometry
-- Sensor fusion approaches for navigation systems
-- Embedded systems
+- Visual Inertial Odometry
+- Sensor Fusion Approaches for Navigation Systems
+- Embedded Systems
 
 ### Where to Reach Me 📌   
 
