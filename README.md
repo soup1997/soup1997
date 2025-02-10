@@ -18,6 +18,5 @@
   
   <a href="https://velog.io/@soup1997" target="_blank"><img src="https://img.shields.io/badge/soup1997-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soup1997@hanyang.ac.kr)](mailto:soup1997@hanyang.ac.kr)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/hyunseup-jo-529821255/)](https://www.linkedin.com/in/hyunseup-jo-529821255/)
   
 </div>
