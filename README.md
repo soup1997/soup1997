@@ -10,7 +10,7 @@
 
 ### Research Interest 🔭
 - Visual Inertial Odometry
-- Sensor Fusion Approaches for Navigation Systems
+- Terrain Referenced Navigation
 - Embedded Systems
 
 ### Where to Reach Me 📌   
