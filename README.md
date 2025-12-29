@@ -6,7 +6,8 @@
 
 ### Education 📘
 - M.S in Automotive Engineering, Hanyang University, Seoul, South Korea **(Mar.2023 ~ Feb.2025)**
-- B.S in Electronics Engineering, Minor in Automotive Engineering, Tech University of Korea, Gyeonggi-do, South Korea **(Mar.2017 ~ Feb.2023)**
+- B.S in Electronics Engineering, Minor in Automotive Engineering, Tech University of Korea, Gyeonggi-do, South Korea\
+**(Mar.2017 ~ Feb.2023)**
 
 ### Research Interest 🔭
 * Visual–Inertial Odometry in GNSS-denied environments
