@@ -9,9 +9,9 @@
 - B.S in Electronics Engineering, Minor in Automotive Engineering, Tech University of Korea **(2017.03 ~ 2023.02)**
 
 ### Research Interest 🔭
-- Visual Inertial Odometry
-- Terrain Referenced Navigation
-- Embedded Systems
+* Visual–Inertial Odometry in GNSS-denied environments
+* Inertial Navigation techniques for guided missile systems
+* Embedded systems development
 
 ### Where to Reach Me 📌   
 
